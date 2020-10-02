@@ -8,6 +8,13 @@
     android:layout_height="match_parent"
     tools:context=".Detail_ilmuan">
 
+    <Text
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Web Dibawah Ini"
+        android:text_style="bold"
+        android:text_size="20dp"
+          
     <WebView
         android:id="@+id/web"
         android:layout_width="match_parent"
